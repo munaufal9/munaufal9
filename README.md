@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+<div align="center">
+  <a href="https://github.com/munaufal9">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=munaufal9&layout=compact&langs_count=20&theme=radical&show_icons=true&count_private=true&hide=jupyter%20notebook,pascal,visual%20basic%20.net,matlab,hack,m,procfile" />
+  </a><br><br>
+  <a href="https://github.com/munaufal9">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=munaufal9&count_private=true&show_icons=true&theme=radical" />
+  </a><br><br>
+</div>
+
+
 <!--
 **munaufal9/munaufal9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
